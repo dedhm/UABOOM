@@ -3,9 +3,9 @@
 ```
 apt update && apt upgrade
 
-git clone https://github.com/privatesoft0/spammer
+git clone https://github.com/dedhm/UABOOM
 
-cd spammer
+cd UABOOM
 
 pip install -r requirements.txt
 
